@@ -14,10 +14,10 @@ The assignment requirements were:
 
 ## 📂 Repository Contents  
 - `fashion_cnn_notebook.py` → Python implementation.  
-- `fashion_cnn_notebook.R` → R implementation (executed in Google Colab).  
+- `fashion_cnn_notebook.r` → R implementation (executed in Google Colab).  
 - `fashion_cnn_notebook.keras` → Saved CNN model in Python.
 - `fashion_cnn.keras` → Saved CNN model in R. 
-- `predictions_python.png` → Prediction output from Python (with predicted + true labels).  
+- `predictions.png` → Prediction output from Python (with predicted + true labels).  
 - `predictions_R.png` → Prediction output from R (with predicted + true labels).  
 - `README.md` → Documentation and instructions (this file).  
 
